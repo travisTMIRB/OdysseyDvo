@@ -6,12 +6,13 @@
  <table>
    <tr>
      <td>
- <p align=center>  “  Make    $\text{\color{#C9C9C9} Me}$ Normal    Next   Time   ,  $\text{\color{#C9C9C9} God }$ . “ ❤︎ᬼ
+ <p align=center>    <div id="header"align="center"> “  Make    $\text{\color{#C9C9C9} Me}$ Normal    Next   Time   ,  $\text{\color{#C9C9C9} God }$ . “ ❤︎ᬼ
      </td>
    </tr>
  </table>
 <p align=center>  
   </p>
+    <div id="header"align="center">
 <table>
   <thead>
     <tr>
