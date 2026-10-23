@@ -1,4 +1,4 @@
-br>
+
  <p align=center>
  <table>
    <tr>
@@ -7,8 +7,6 @@ br>
      </td>
    </tr>
  </table>
-
-
 <p align=center>  
   </p>
 <table>
@@ -20,7 +18,7 @@ br>
     <tr>
       <td>
         <p align=center>
-<img width="200" height="200" alt="Untitled728_20261023081327" src="https://github.com/user-attachments/assets/fe9a1575-ed9e-46af-a16f-19ec1e420d00" /></td>
+  <img align=center width="200" height="200" alt="Untitled728_20261023081327" src="https://github.com/user-attachments/assets/fe9a1575-ed9e-46af-a16f-19ec1e420d00" /></td>
       <td> hi  hi hi hi hi hi hi hi hi hi hi hi hi hi hi
           </td>
     </tr> 
