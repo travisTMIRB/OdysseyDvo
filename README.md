@@ -6,7 +6,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img align="center" width="200px" salt="image" src="https://file.garden/ahMHvma4rlrxNi-s/wifies%20png%201"></td>
+      <td><img align="center"<img width="1024" height="614" alt="IMG_9741" src="https://github.com/user-attachments/assets/4b980162-2f89-49f8-98bd-53ad772159d8" /></td>
       <td> hi
       
 
