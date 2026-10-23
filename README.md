@@ -31,21 +31,3 @@
 <p align=center>
    <img src="https://komarev.com/ghpvc/?username=MichaTanner&style=flat-square&color=B6B9B2&label=friends!" alt="profile view counter" width ="100" align="center">
  
-</p>
-<table>
-  <thead>
-    <tr>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img align="center" <img width="100" alt="Untitled730_20261023085235" src="https://github.com/user-attachments/assets/0f97e107-1f60-4476-b117-e9e09067603a" /></td>
-      <td>
-        <details>
-          <summary><sub>𝘤fffjdjdjd</summary>
-  <a href="https://github.com/raveIIe"><sub>rav</a> <a href="https://github.com/1V-HATER"><sub>jay</a> <a href="https://github.com/scrsonmythighs"><sub>rin</a> <a href="https://github.com/less-cute"><sub>miriel</a> <br> <a href="https://github.com/elisxne"><sub>tux</a> <a href="https://github.com/cheese-D1SH"><sub>cheese</a> <a href="https://github.com/cirrusaa"><sub>cirrusa</a><br>
-        </details>
-      </td>
-    </tr>
-    <table>
-    <tr>
