@@ -1,31 +1,42 @@
-<p align=center>
-<img width="130"alt="IMG_7003" src="https://github.com/user-attachments/assets/795db6a5-773e-45d7-821b-80cab125ae72" />
-<br>
- <p align=center>
- <table>
-   <tr>
-     <td>
- <p align=center>  “  Make    $\text{\color{#C9C9C9} Me}$ Normal    Next   Time   ,  $\text{\color{#C9C9C9} God }$ . “ ❤︎ᬼ
-     </td>
-   </tr>
- </table>
-<p align=center>
-<img width="20" alt="IMG_7007" src="https://github.com/user-attachments/assets/dac0f091-7ea6-4440-bab1-6d31393c4d7b" />
-Travis $\text{\color{#C9C9C9}Or }$ $\text{\color{#959595}Clemmie!}$ $\text{\color{#505050} 𓍢ִ໋ ࣪˖ ִֶָ𐂂ִֶָ་༘࿐}$
-<br>
-  <p align=center>
-$\text{\color{#C9C9C9}social awk ,,}$ $\text{\color{#959595} immature .  ✧　𓈒 　﹒ }$ $\text{\color{#505050} DPD }$ <img width="20"  alt="IMG_7008" src="https://github.com/user-attachments/assets/9ae057de-a54c-413e-a222-b46a0a251b72" />
-<br>
-<p align=center>
-   <img src="https://komarev.com/ghpvc/?username=MichaTanner&style=flat-square&color=B6B9B2&label=friends!" alt="profile view counter" width ="100" align="center">
-
-
-   <details>
-<summery> 
-  I usually have dependency on people and I’m really shy, I may struggle to speak or communicate from my anxiety disorder. I don’t have many boundaries as I don’t like being rude! no strict dni, just don’t be a racist or weirdo I suppose! I’m dating my beloved, I am polyamorous and male attracted. I struggle to reach out to people first, and I also may sometimes require people to make decisions or sentences for me. I’m sorry if this is frustrating!!! I like bad things, the moon I rot behind, unstable universe, phighting, a reGect, args and other things like roblox as of now. I like to play vrchat, minecraft and well obviously ponytown. I’m a bit sensitive aswell,, and again im not very social.
-</summery>
-</details>  <p align=right>
- <img width="150" alt="IMG_7006" src="https://github.com/user-attachments/assets/5ea31bec-8dc1-4141-9296-ccdf0f6cd34c" />
-
-
+<div id="header"align="center">
  
+   ![](https://komarev.com/ghpvc/?username=EVILRUSSIAN&label=zegectlings&color=2c313e&style=plastic&base=100)
+
+   </p> 
+   
+   <div id="header"align="center">
+</p>
+<table>
+  <thead>
+    <tr>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img align="center" width="250px" salt="image" src="https://file.garden/aOzMKcIeICuTJJmk/IMG_9093.PNG"></td>
+      <td>
+          ㅤ ㅤ ㅤ $\small\color{#f7faff}{\textsf{𝑜𝑟𝑒𝑠ℎ𝑎}}$ $\small\color{#a8a8c9}{\textsf{𝑜𝑢}}$ $\small\color{#f7faff}{\textsf{𝑜𝑟𝑖}}$ $\small\color{#a8a8c9}{\textsf{಄}}$ <br>     ㅤ ㅤ ㅤ  $\small\color{#2c313e}{\textsf{⸝⸝}}$ $\small\color{#4c505a}{\textsf{19}}$ $\small\color{#e5dad7}{\textsf{𝑟𝑢}}$ $\small\color{#e0d3d7}{\textsf{𝑒𝑛𝑔}}$ <br>     ㅤ ㅤ ㅤ  $\small\color{#f7faff}{\textsf{𝑐*ℎ}}$ $\small\color{#a8a8c9}{\textsf{𝑎𝑛𝑦𝑡𝑖𝑚𝑒}}$ $\small\color{#f7faff}{\textsf{.ᐟ 𓂃}}$ <br> $\small\color{#585b65}{\textsf{𝑏𝑎𝑠𝑖𝑐 𝑑𝑛𝑖}}$ $\small\color{#4c505a}{\textsf{𝑐𝑟𝑖𝑡𝑒𝑟𝑖𝑎,}}$ $\small\color{#f7faff}{\textsf{𝐼 𝑏𝑙𝑜𝑐𝑘}}$ $\small\color{#a8a8c9}{\textsf{𝑓𝑟𝑒𝑒𝑙𝑦}}$ <br>      ㅤ ㅤ ㅤ $\small\color{#e5dad7}{\textsf{𝑣𝑒𝑟𝑦}}$ $\small\color{#e0d3d7}{\textsf{𝑓𝑟𝑖𝑒𝑛𝑑𝑙𝑦}}$ $\small\color{#f7faff}{\textsf{゛}}$
+      </td>
+    </tr>
+    <table>
+    <tr>
+
+
+</p>
+<table>
+  <thead>
+    <tr>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img align="center" width="200px" salt="image" src="https://file.garden/aOzMKcIeICuTJJmk/IMG_9117.PNG"></td>
+      <td>
+        <details>
+          <summary><sub>𝘤𝘶𝘵𝘦 𝘣𝘯𝘯𝘶𝘪𝘦𝘴</summary>
+  <a href="https://github.com/raveIIe"><sub>rav</a> <a href="https://github.com/1V-HATER"><sub>jay</a> <a href="https://github.com/scrsonmythighs"><sub>rin</a> <a href="https://github.com/less-cute"><sub>miriel</a> <br> <a href="https://github.com/elisxne"><sub>tux</a> <a href="https://github.com/cheese-D1SH"><sub>cheese</a> <a href="https://github.com/cirrusaa"><sub>cirrusa</a><br>
+        </details>
+      </td>
+    </tr>
+    <table>
+    <tr>
