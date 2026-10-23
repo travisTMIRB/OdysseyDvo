@@ -9,7 +9,6 @@
  <p align=center>  “  Make    $\text{\color{#C9C9C9} Me}$ Normal    Next   Time   ,  $\text{\color{#C9C9C9} God }$ . “ ❤︎ᬼ
      </td>
    </tr>
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hihihihih oh hihihihiihihihih)](https://git.io/typing-svg)
  </table>
 <p align=center>  
   </p>
@@ -40,10 +39,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><img align="center" width="200px" salt="image" src="https://file.garden/aOzMKcIeICuTJJmk/IMG_9117.PNG"></td>
+      <td><img align="center" <img width="100" alt="Untitled730_20261023085235" src="https://github.com/user-attachments/assets/0f97e107-1f60-4476-b117-e9e09067603a" /></td>
       <td>
         <details>
-          <summary><sub>𝘤𝘶𝘵𝘦 𝘣𝘯𝘯𝘶𝘪𝘦𝘴</summary>
+          <summary><sub>𝘤fffjdjdjd</summary>
   <a href="https://github.com/raveIIe"><sub>rav</a> <a href="https://github.com/1V-HATER"><sub>jay</a> <a href="https://github.com/scrsonmythighs"><sub>rin</a> <a href="https://github.com/less-cute"><sub>miriel</a> <br> <a href="https://github.com/elisxne"><sub>tux</a> <a href="https://github.com/cheese-D1SH"><sub>cheese</a> <a href="https://github.com/cirrusaa"><sub>cirrusa</a><br>
         </details>
       </td>
@@ -51,4 +50,3 @@
     <table>
     <tr>
 
-      
