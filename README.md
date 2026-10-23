@@ -1,12 +1,12 @@
 <p align=center>
 <img align=center width="200"alt="Untitled729_20261023083128" src="https://github.com/user-attachments/assets/e7b5a66d-3e4c-4e3e-91fd-fa74bfc84e4b" />
 
- 
+   <div id="header"align="center">
 <p align=center>
  <table>
    <tr>
      <td>
- <p align=center>    <div id="header"align="center"> “  Make    $\text{\color{#C9C9C9} Me}$ Normal    Next   Time   ,  $\text{\color{#C9C9C9} God }$ . “ ❤︎ᬼ
+ <p align=center> Make    $\text{\color{#C9C9C9} Me}$ Normal    Next   Time   ,  $\text{\color{#C9C9C9} God }$ . “ ❤︎ᬼ
      </td>
    </tr>
  </table>
