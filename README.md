@@ -6,7 +6,12 @@
  <table>
    <tr>
      <td>
- <p align=center>  “  Make    $\text{\color{#C9C9C9} Me}$ Normal    Next   Time   ,  $\text{\color{#C9C9C9} God }$ . “ ❤︎ᬼ
+ <p align=center>  
+$\text{\color{#718840} parrot  .  Travis ⑅}$
+$\text{\color{#8F9442} 𓏽  infp  ♡ he/him   ּ ֶָ֢ .  }$
+$\text{\color{#C8B151} ᣟ݂༷𓎐　bb thin ice }$
+$\text{\color{#C3BA6F} 14 dni or iwc }$
+ ❤︎ᬼ
      </td>
    </tr>
  </table>
