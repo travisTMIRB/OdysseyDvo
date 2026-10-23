@@ -1,5 +1,8 @@
+<p align=center>
+<img align=center width="200"alt="Untitled729_20261023083128" src="https://github.com/user-attachments/assets/e7b5a66d-3e4c-4e3e-91fd-fa74bfc84e4b" />
 
- <p align=center>
+ 
+<p align=center>
  <table>
    <tr>
      <td>
@@ -18,14 +21,15 @@
     <tr>
       <td>
         <p align=center>
-  <img align=center width="200" height="200" alt="Untitled728_20261023081327" src="https://github.com/user-attachments/assets/fe9a1575-ed9e-46af-a16f-19ec1e420d00" /></td>
-      <td> hi  hi hi hi hi hi hi hi hi hi hi hi hi hi hi
+  <img align=center width="200px" alt="Untitled729_20261023083408" src="https://github.com/user-attachments/assets/185ed772-c0c2-46cf-91ec-dd440ef903e9" /><td> hi  hi hi hi hi hi hi hi hi hi hi hi hi hi hi
           </td>
     </tr> 
     <table>
-    <tr>   <details>
-<summery>  hi </summery>
-</details>  <p align=right>
- <img width="108" height="50” alt="Untitled728_20261023081327" src="https://github.com/user-attachments/assets/e6d2f2a7-c559-4740-bc3f-fe2a18cb5d2f" />
+    <tr>   
+    <br>
+<p align=center>
+   <img src="https://komarev.com/ghpvc/?username=MichaTanner&style=flat-square&color=B6B9B2&label=friends!" alt="profile view counter" width ="100" align="center">
+ 
+
 
       
