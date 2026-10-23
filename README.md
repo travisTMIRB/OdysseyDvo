@@ -10,8 +10,7 @@
 $\text{\color{#718840} parrot  .  Travis ⑅}$
 $\text{\color{#8F9442} 𓏽  infp  ♡ he/him   ּ ֶָ֢ .  }$
 $\text{\color{#C8B151} ᣟ݂༷𓎐　bb thin ice }$
-$\text{\color{#C3BA6F} -14 dni / iwc }$
- ❤︎ᬼ }$
+$\text{\color{#C3BA6F} -14 dni / iwc , , }$
      </td>
    </tr>
  </table>
