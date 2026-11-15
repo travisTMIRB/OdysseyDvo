@@ -29,7 +29,7 @@ $\text{\color{#C3BA6F} -14 dni / iwc , , }$
     <tr>
       <td>
         <p align=center>
-  <img align=center ![Uploading Untitled787_20261115052017.png…]() /><td> $\text{\color{#718840}ib: odyssial .}$ $\text{\color{#8F9442}ask 4 removal !!}$
+  <img align=center <img width="2048" alt="Untitled787_20261115052017" src="https://github.com/user-attachments/assets/c800ce8a-2839-459f-a3de-fe11a176ff7d" /><td> $\text{\color{#718840}ib: odyssial .}$ $\text{\color{#8F9442}ask 4 removal !!}$
   $\text{\color{#C8B151} i love odyssey duo. I heavily}$ $\text{\color{#C3BA6F} self project into them}$ $\text{\color{#CFCB8F} so please interact with me as }$ $\text{\color{#D6D5A5} Wifies. thanku }$
    </td> 
     </tr> 
